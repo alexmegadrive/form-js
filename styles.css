@@ -168,6 +168,8 @@ textarea {
     display: none;
     flex-direction: row;
     flex-wrap: wrap;
+     margin-bottom: 10px;
+
 }
 
 .previewImage {
